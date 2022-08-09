@@ -1,0 +1,1 @@
+Program küçük sayılarıda hızlı sonuç vermektedir fakat girilen sayıları büyüdükçe sonuç verme hızı biraz düşebilir. Sonuç büyük sayılarda yavaş çıksada doğru sonuç vermektedir
